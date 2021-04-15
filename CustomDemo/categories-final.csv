@@ -1,0 +1,24 @@
+CATEGORY_NAME,CATEGORY_ID,CATEGORY_IMAGES,PUBISHED,ACTIVE
+Coffeefy,coffeefy,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1.jpg,TRUE,TRUE
+Cups,1255,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1255.jpg,TRUE,TRUE
+Coffee Supplies,1263,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1263.jpg,TRUE,TRUE
+Flatware & Cutlery,1271,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1271.jpg,TRUE,TRUE
+Water Filters,1310,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1310.jpg,TRUE,TRUE
+Coffee Makers,1320,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1320.jpg,TRUE,TRUE
+Coffee Maker Parts & Accessories,1395,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1395.jpg,TRUE,TRUE
+Spare Parts,1396,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1395.jpg,TRUE,TRUE
+Coffee Grinders,1420,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1420.jpg,TRUE,TRUE
+Vacuum Flasks,1481,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1481.jpg,TRUE,TRUE
+Descalers,1717,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1717.jpg,TRUE,TRUE
+Spoons,1950,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1950.jpg,FALSE,FALSE
+Milk Frothers,2022,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/2022.jpg,TRUE,TRUE
+Water Filter Supplies,2513,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/2513.jpg,FALSE,FALSE
+Cocktail Shakers,2689,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/2689.jpg,TRUE,TRUE
+Ground Coffee,4323,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/4323.jpg,TRUE,TRUE
+Coffee Capsules & Pods,4430,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/4430.jpg,TRUE,TRUE
+Coffee Beans,4650,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/4650.jpg,TRUE,TRUE
+Drinkware,4883,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/4883.jpg,TRUE,TRUE
+Water Testing Products,6021,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/6021.jpg,TRUE,TRUE
+Coffee Glasses,6333,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/6333.jpg,TRUE,TRUE
+Collections,1000,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/1000.jpg,TRUE,TRUE
+Brands,Brands,https://cx-upscale.s3-eu-west-1.amazonaws.com/coffeefy/categories/brands.jpg,TRUE,TRUE
