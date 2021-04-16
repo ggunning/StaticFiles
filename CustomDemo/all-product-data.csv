@@ -1,13 +1,13 @@
-PRODUCT_TYPE,PRODUCT_ID,PARENT_ID,SKU,PRODUCT_NAME,PRODUCT_DESCRIPTION,ORIGINAL_PRICE,SELLING_PRICE,PRICE_RANGE,BRAND,VARIANT_COLOR,VARIANT_SIZE,THUMBNAIL_IMAGES,FULL_SIZE_IMAGES,PRODUCT_DETAILS,RELEASE_DATE,ACTIVE,PUBLISHED,Attribute_1
-COLLECTION,gg_col_001,,mega_products,Mega Products ,The collection is for fans of the Mega Product,,,,mega,,,,,,,TRUE,TRUE,
-COLLECTION,gg_col_002,,mini_products,mini Collection,The collection is for fans of the Mini Product,,,,mini,,,,,,,TRUE,TRUE,
-COLLECTION,gg_col_003,,medium_products,Medium collection,The collection is for fans of the medium producs,,,,medi,,,,,,,TRUE,TRUE,
-PARENT,gg_p_001,,sku001,gg_p_001,,1,88,,,,,,,,,TRUE,TRUE,10cm
-PARENT,gg_p_002,,sku002,gg_p_002,,2,88,,,,,,,,,TRUE,TRUE,10kg
-PARENT,gg_p_003,,sku003,gg_p_003,,3,88,,,,,,,,,TRUE,TRUE,large
-REGULAR,gg_r_001,,sku004,gg_r_001,,43,88,,,,,,,,,TRUE,TRUE,small
-REGULAR,gg_r_002,,sku005,gg_r_002,,6,88,,,,,,,,,TRUE,TRUE,blue 
-REGULAR,gg_r_003,,sku006,gg_r_003,,8,88,,,,,,,,,TRUE,TRUE,green
-VARIANT,gg_v_001,gg_p_001,sku001-1,gg_v_001,,7,88,,,,,,,,,TRUE,TRUE,1
-VARIANT,gg_v_002,gg_p_002,sku001-2,gg_v_002,,6,88,,,,,,,,,TRUE,TRUE,"2,1"
-VARIANT,gg_v_003,gg_p_001,sku001-3,gg_v_003,,2,88,,,,,,,,,TRUE,TRUE,1.4
+PRODUCT_TYPE,PRODUCT_ID,PARENT_ID,SKU,PRODUCT_NAME,PRODUCT_DESCRIPTION,ORIGINAL_PRICE,SELLING_PRICE,PRICE_RANGE,BRAND,VARIANT_COLOR,VARIANT_SIZE,THUMBNAIL_IMAGES,FULL_SIZE_IMAGES,PRODUCT_DETAILS,RELEASE_DATE,ACTIVE,PUBLISHED,Attribute_1,flange
+COLLECTION,gg_col_001,,mega_products,Mega Products ,The collection is for fans of the Mega Product,,,,mega,,,,,,,TRUE,TRUE,,
+COLLECTION,gg_col_002,,mini_products,mini Collection,The collection is for fans of the Mini Product,,,,mini,,,,,,,TRUE,TRUE,,
+COLLECTION,gg_col_003,,medium_products,Medium collection,The collection is for fans of the medium producs,,,,medi,,,,,,,TRUE,TRUE,,
+PARENT,gg_p_001,,sku001,gg_p_001,,1,88,,,,,,,,,TRUE,TRUE,10cm,
+PARENT,gg_p_002,,sku002,gg_p_002,,2,88,,,,,,,,,TRUE,TRUE,10kg,
+PARENT,gg_p_003,,sku003,gg_p_003,,3,88,,,,,,,,,TRUE,TRUE,large,
+REGULAR,gg_r_001,,sku004,gg_r_001,,43,88,,,,,,,,,TRUE,TRUE,small,
+REGULAR,gg_r_002,,sku005,gg_r_002,,6,88,,,,,,,,,TRUE,TRUE,blue ,
+REGULAR,gg_r_003,,sku006,gg_r_003,,8,88,,,,,,,,,TRUE,TRUE,green,
+VARIANT,gg_v_001,gg_p_001,sku001-1,gg_v_001,,7,88,,,,,,,,,TRUE,TRUE,1,YES
+VARIANT,gg_v_002,gg_p_002,sku001-2,gg_v_002,,6,88,,,,,,,,,TRUE,TRUE,"2,1",NO
+VARIANT,gg_v_003,gg_p_001,sku001-3,gg_v_003,,2,88,,,,,,,,,TRUE,TRUE,1.4,NO
