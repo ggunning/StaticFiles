@@ -10,4 +10,4 @@ REGULAR,gg_r_002,,sku005,,,6,88,,Philips,,,,,"Intelia Evo Class, 15bar, 1900W",,
 REGULAR,gg_r_003,,sku006,,,8,88,,Saeco,,,,,"Saeco GranBaristo Super-automatic espresso machine, Black",,TRUE,TRUE,green
 VARIANT,gg_v_001,gg_p_001,sku001-1,,,7,88,,DeLonghi,,,,,,,TRUE,TRUE,1
 VARIANT,gg_v_002,gg_p_002,sku001-2,,,6,88,,DeLonghi,,,,,,,TRUE,TRUE,"2,1"
-VARIANT,gg_v_003,gg_v_001,sku001-3,,,2,88,,DeLonghi,,,,,,,TRUE,TRUE,1.4
+VARIANT,gg_v_003,gg_p_001,sku001-3,,,2,88,,DeLonghi,,,,,,,TRUE,TRUE,1.4
