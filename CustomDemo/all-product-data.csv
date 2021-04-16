@@ -8,6 +8,6 @@ PARENT,gg_p_003,,sku003,gg_p_003,,3,88,,,,,,,,,TRUE,TRUE,large
 REGULAR,gg_r_001,,sku004,gg_r_001,,43,88,,,,,,,,,TRUE,TRUE,small
 REGULAR,gg_r_002,,sku005,gg_r_002,,6,88,,,,,,,,,TRUE,TRUE,blue 
 REGULAR,gg_r_003,,sku006,gg_r_003,,8,88,,,,,,,,,TRUE,TRUE,green
-VARIANT,gg_v_001,2937958,sku001-1,gg_v_001,,7,88,,,,,,,,,TRUE,TRUE,1
+VARIANT,gg_v_001,gg_p_002,sku001-1,gg_v_001,,7,88,,,,,,,,,TRUE,TRUE,1
 VARIANT,gg_v_002,gg_p_002,sku001-2,gg_v_002,,6,88,,,,,,,,,TRUE,TRUE,"2,1"
 VARIANT,gg_v_003,gg_p_001,sku001-3,gg_v_003,,2,88,,,,,,,,,TRUE,TRUE,1.4
